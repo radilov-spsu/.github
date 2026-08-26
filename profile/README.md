@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/radilov-spsu/.github/main/brand/logo-512.png" width="112" alt="">
+
 # Курсы П. Радилова
 
 **Приднестровский государственный университет им. Т. Г. Шевченко**<br>
