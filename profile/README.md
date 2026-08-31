@@ -24,7 +24,7 @@
 Как из требований вырастает модель предметной области, и как модель
 превращается в код, который не рассыпается на второй итерации.
 
-[Материалы →](https://github.com/radilov-spsu/materials/tree/main/ooad)
+[Материалы курса →](https://radilov-spsu.github.io/materials/ooad/)
 
 </td>
 <td width="50%" valign="top">
@@ -34,7 +34,7 @@
 Потоки, процессы и то, почему восемь ядер редко дают восьмикратное
 ускорение.
 
-[Материалы →](https://github.com/radilov-spsu/materials/tree/main/parallel-programming)
+[Материалы курса →](https://radilov-spsu.github.io/materials/parallel-programming/)
 
 </td>
 </tr>
@@ -44,7 +44,7 @@
 
 | | |
 |---|---|
-| 📚 **[materials](https://github.com/radilov-spsu/materials)** | лекции, условия работ, разбираемые примеры — открыто для всех |
+| 📚 **[Сайт материалов](https://radilov-spsu.github.io/materials/)** | лекции с поиском и диаграммами — открыто для всех |
 | ✍️ **[enroll](https://github.com/radilov-spsu/enroll)** | регистрация: заполняете форму, получаете личный репозиторий |
 | 🔒 **ваш-репозиторий** | приватный, только вы и преподаватель; работы сдаются через Pull Request |
 
