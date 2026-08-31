@@ -24,7 +24,7 @@
 Как из требований вырастает модель предметной области, и как модель
 превращается в код, который не рассыпается на второй итерации.
 
-[Материалы курса →](https://radilov-spsu.github.io/materials/ooad/)
+[Материалы курса →](https://radilov-spsu.github.io/materials/OOP/)
 
 </td>
 <td width="50%" valign="top">
@@ -34,8 +34,22 @@
 Потоки, процессы и то, почему восемь ядер редко дают восьмикратное
 ускорение.
 
-[Материалы курса →](https://radilov-spsu.github.io/materials/parallel-programming/)
+[Материалы курса →](https://radilov-spsu.github.io/materials/Parallel/)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Технология программирования
+
+Инженерная сторона разработки: процесс от требований до сопровождения
+и инструменты, которыми он держится.
+
+[Материалы курса →](https://radilov-spsu.github.io/materials/TechProg/)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
