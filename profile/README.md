@@ -7,6 +7,7 @@
 
 Материалы, задания и работы студентов
 
+[![Материалы](https://img.shields.io/badge/Материалы_курсов-открыть_сайт-4636D9?style=for-the-badge)](https://radilov-spsu.github.io/materials/)
 [![Записаться](https://img.shields.io/badge/Записаться_на_курс-заполнить_форму-2ea44f?style=for-the-badge)](https://github.com/radilov-spsu/enroll/issues/new?template=enrollment.yml)
 
 </div>
@@ -34,7 +35,7 @@
 Потоки, процессы и то, почему восемь ядер редко дают восьмикратное
 ускорение.
 
-[Материалы курса →](https://radilov-spsu.github.io/materials/Parallel/)
+*Материалы готовятся*
 
 </td>
 </tr>
@@ -46,7 +47,7 @@
 Инженерная сторона разработки: процесс от требований до сопровождения
 и инструменты, которыми он держится.
 
-[Материалы курса →](https://radilov-spsu.github.io/materials/TechProg/)
+*Материалы готовятся*
 
 </td>
 <td width="50%" valign="top">
